@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, AI, and sports analyt
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python
-- **Frameworks & Libraries**: PyTorch, TensorFlow, OpenCV, Kivy
+- **Frameworks & Libraries**: PyTorch, OpenCV, Kivy
 - **Tools**: Git, Docker, VSCode
 
 ## 📊 Projects
